@@ -10,9 +10,9 @@
 
 <div align="center">
   
-🌱 I’m currently learning **Machine Learning**, **Artificial Intelligence**, and improving my **Data Structures** skills.  
-🔭 I’m working on small projects to strengthen my knowledge in **Python** and **ML algorithms**.  
-💡 Interested in **AI, Data Science, Web Development**, and **Problem Solving**.  
+🌱 I’m currently learning **Machine Learning**, **Artificial Intelligence**, and **Data Analysis**.  
+🔭 I’m working on small projects to strengthen my knowledge in **Python**, **ML algorithms**, and **Data Visualization**.  
+💡 Interested in **AI, Data Science, Data Analysis, Web Development**, and **Problem Solving**.  
 🎓 Currently a **Computer Science student** at **Faculty of Computers and Information**.
 
 </div>
@@ -26,12 +26,18 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
 
 ---
+
+
 
 ### 📈 **GitHub Stats**
 
@@ -46,7 +52,7 @@
 
 ### 🎯 **Goals for 2025**
 
-- 🚀 Build **Machine Learning** projects.
+- 🚀 Build **Artificial Intelligence** projects.
 - 📊 Practice **Data Science** with **Python**.
 - 🌐 Learn **Web Development** to integrate AI into apps.
 - 🏆 Contribute to **open-source projects**.
